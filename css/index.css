@@ -26,11 +26,10 @@ img{
     border: 8px solid white;
 }
 
-.h2{
+h2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: aliceblue;
     border:5px solid white;
     margin:8px;
     padding: 20px;
-
 }
